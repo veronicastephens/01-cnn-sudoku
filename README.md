@@ -2,7 +2,7 @@
 
 Project: Use CNN to solve Sodoku puzzles
 
-My contribution: created training data set of 37,800 images (4,200 each digit 1-9) with 60 different fonts and 70 transformations
+My contribution: Created training dataset of 37,800 labeled images with printed digits (4,200 of each digit 1-9). The dataset has 60 different fonts and was created using InDesign. The orginal 540 images (60 x 9) were exported in order with font names and numbers to maintain the order of the images in the file directory. With this predictability, images were resized to 28x28x1 and the corresponding label .npy file was created in Python. The original 'clean' images were then transformed 70 times using numpy transformations and overlaying images using openCV. The additional labels were created alongside the transformations of the original images. 
 
 Programs: Python, Adobe InDesign
 
