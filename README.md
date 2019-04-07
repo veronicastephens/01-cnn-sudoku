@@ -1,8 +1,8 @@
 ### big-data-technology-project
 
-Information Systems Big Data Technology Course
-
 Project: Use CNN to solve Sodoku puzzles
+
+Information Systems Big Data Technology Course
 
 Programs: Jupyter, Python, Spark (cloud-based environments)
 
