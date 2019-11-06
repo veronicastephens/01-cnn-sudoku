@@ -14,20 +14,12 @@ The original ‘clean’ images were then transformed 70 times using numpy trans
 With the printed digits training data set, we achieved 96.2% accuracy rather than 23.1% accuracy with the well known handwritten MNIST data set. Note the use of a convolutional neural network was a project requirement. OCR, optical character recognition, is a potentially a more reliable approach within our Sudoku project than the CNN model.
 
 ### Included
-.py process files, project summary, presentation, report
+Python training printed digits Python process files, project summary, presentation, report
 
 ### Programs
-Python, Adobe InDesign
+Python (OpenCV, numpy, itertools, matplotlib), Adobe InDesign
 
-### Packages
-OpenCV, numpy, itertools, matplotlib
-
-### Team
-Richard Gower, Bryon Mosier, Joshua Roach, Veronica Stephens, Donald Villarreal, Aaron Wright
-
-### Course
-Information Systems Big Data Technology
-### Programs
-Jupyter, Python, Spark (cloud-based environments)
-### Course Topics
-Introduction to Big Data, Big Data Characteristics, Hadoop Ecosystems, Big Data Integration, Big Data Processing, Graph Analytics for Big Data, Machine Learning for Big Data, Big Data Visualization
+Team: Richard Gower, Bryon Mosier, Joshua Roach, Veronica Stephens, Donald Villarreal, Aaron Wright
+Course: Information Systems Big Data Technology
+Programs: Jupyter, Python, Spark (cloud-based environments)
+Course Topics: Introduction to Big Data, Big Data Characteristics, Hadoop Ecosystems, Big Data Integration, Big Data Processing, Graph Analytics for Big Data, Machine Learning for Big Data, Big Data Visualization
