@@ -11,7 +11,7 @@ I created 37,800 labeled images with printed digits with 4,200 images of each di
 The original ‘clean’ images were then transformed 70 times using numpy transformations and overlaying images using openCV in Python. The additional corresponding labels were created alongside the transformations. The final training data set had printed numbers with borders and noise to more accurately reflect the numbers extracted from the Sudoku puzzles.
 
 ### Results
-With the printed digits training data set, we achieved 96.2% accuracy rather than 23.1% accuracy with the well known handwritten MNIST data set. Note the use of a convolutional neural network was a project requirement. OCR, optical character recognition, is a potentially a more reliable approach within our Sudoku project than the CNN model.
+With the printed digits training data set, we achieved 96.2% accuracy rather than 23.1% accuracy with the well-known handwritten MNIST data set. Note the use of a convolutional neural network was a project requirement. OCR, optical character recognition, is a potentially a more reliable approach within our Sudoku project than the CNN model.
 
 ### Included
 Python training printed digits Python process files, project summary, presentation, report
@@ -19,6 +19,7 @@ Python training printed digits Python process files, project summary, presentati
 ### Programs
 Python (OpenCV, numpy, itertools, matplotlib), Adobe InDesign
 
+### Additional Information
 Team: Richard Gower, Bryon Mosier, Joshua Roach, Veronica Stephens, Donald Villarreal, Aaron Wright
 Course: Information Systems Big Data Technology
 Programs: Jupyter, Python, Spark (cloud-based environments)
