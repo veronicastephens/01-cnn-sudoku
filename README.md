@@ -1,9 +1,9 @@
 ### big-data-technology-project
 
-Project Goal
+## Project Goal
 CNN to solve Sudoku puzzles
 
-##Summary
+## Summary
 
 As a part of a team project, I created a training data set for our convolutional neural network, CNN, model. The model input is an image of an unsolved Sudoku puzzle, the model extracts the cells with prefilled numbers, predicts the numbers present, and based on the predictions solves the Sudoku puzzle. 
 
