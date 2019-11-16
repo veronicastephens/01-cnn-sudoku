@@ -1,4 +1,4 @@
-#### big-data-technology-project
+#### cnn-sudoku
 
 ### Project Goal
 CNN to solve Sudoku puzzles
